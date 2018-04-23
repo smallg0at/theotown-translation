@@ -24,7 +24,7 @@
     <string name="topic_fstapril">愚人节快乐!</string>
     <string name="topic_free">这是一个不花钱的游戏 :D</string>
     <string name="topic_christmas">圣诞快乐!</string>
-    <string name="topic_42">42</string>
+    <string name="topic_42">42=生命、宇宙以及任何事情的终极答案</string>
     <string name="toolremove_default_title">摧毁</string>
     <string name="shader_test">就是来测试一下</string>
     <string name="settings_weather">天气</string>
@@ -82,7 +82,7 @@
     <string name="dialog_leave_text">你确定要退出TheoTown吗?</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_notification_cmdok">确认</string>
-    <string name="dialog_nocities_title">竟然找不到城市</string>
+    <string name="dialog_nocities_title">竟然找不到城市！新建一个吧</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
     <string name="dialog_leave_title">退出TheoTown</string>
     <string name="dialog_nocities_text">你还没有任何城市，请建一个新的城市。</string>
@@ -1519,11 +1519,11 @@
     <string name="influence_commercial_text">商业区总是最会吸引市民消费的地方</string>
     <string name="influence_industrial_title">工业区</string>
     <string name="influence_industrial_text">市民门最不想要住在这里</string>
-    <string name="influence_level_low_title">低级</string>
+    <string name="influence_level_low_title">低级建筑</string>
     <string name="influence_level_low_text">这个等级的建筑物是最穷的级别</string>
-    <string name="influence_level_middle_title">中级</string>
+    <string name="influence_level_middle_title">中级建筑</string>
     <string name="influence_level_middle_text">这个等级的建筑物比较富裕</string>
-    <string name="influence_level_high_title">高级</string>
+    <string name="influence_level_high_title">高级建筑</string>
     <string name="influence_level_high_text">这个等级的建筑物最富裕</string>
     <string name="influence_density_title">密度</string>
     <string name="influence_density_text">高楼层的建筑物密度比较高</string>
@@ -1587,7 +1587,7 @@
     <string name="draft_feature_landmarks01_text">包括以下建筑：</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
+    <string name="draft_cat_supply00_title">供给</string>
     <string name="draft_cat_road00_title">道路</string>
     <string name="draft_cat_bus00_title">公交</string>
     <string name="draft_cat_train00_title">轨道交通</string>
@@ -1694,8 +1694,8 @@
 
     <string name="draft_cat_management00_title">管理</string>
     <string name="draft_sakura00_title">樱花宝塔</string>
-    <string name="draft_sakura00_text">一座由樱花配搭的传统式宝塔，是一个多么美好的地方</string>
+    <string name="draft_sakura00_text">一座由樱花配搭的传统式宝塔，多么美好！</string>
     <string name="draft_stbasilcathedral00_title">圣瓦西里主教座堂</string>
-    <string name="draft_stbasilcathedral00_text">圣瓦西里主教座堂是一座位于莫斯科，俄罗斯的教堂。它竣工于1561年，它的总高度为115米</string>
+    <string name="draft_stbasilcathedral00_text">圣瓦西里主教座堂是一座位于莫斯科的教堂。它于1561年竣工，高115米。</string>
 
 </resources>
